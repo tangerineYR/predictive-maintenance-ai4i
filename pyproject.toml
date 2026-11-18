@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "predictive-maintenance-ai4i"
+version = "0.1.0"
+description = "Offline failure classification on the public synthetic UCI AI4I dataset"
+requires-python = ">=3.11"
+dependencies = [
+  "pandas==2.2.3",
+  "scikit-learn==1.4.1.post1",
+  "matplotlib==3.9.4",
+]
+
+[tool.setuptools]
+py-modules = ["smart_factory_equipment_failure_pred"]
