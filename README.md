@@ -11,6 +11,9 @@
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine_Learning-F7931E?logo=scikitlearn&logoColor=white)
 ![Model](https://img.shields.io/badge/Model-Random_Forest-555555)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+[![Python checks](https://github.com/tangerineYR/predictive-maintenance-ai4i/actions/workflows/ci.yml/badge.svg)](https://github.com/tangerineYR/predictive-maintenance-ai4i/actions/workflows/ci.yml)
 
 **[실험 결과](results/metrics.json)** · **[평가 그림](results/evaluation.png)** · **[실행 안내](#-reproduction)**
 
